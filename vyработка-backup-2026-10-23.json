@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "id": "e919e28d-7cc6-4fe2-b43c-d366228f6e93",
+      "name": "БК618-240СМ",
+      "points": 0.7,
+      "note": ""
+    }
+  ],
+  "entries": [
+    {
+      "id": "1792754877999fb70c44d234fc8",
+      "date": "2026-10-23",
+      "productId": "e919e28d-7cc6-4fe2-b43c-d366228f6e93",
+      "productName": "БК618-240СМ",
+      "quantity": 1,
+      "unitPoints": 0.7,
+      "total": 0.7,
+      "note": ""
+    },
+    {
+      "id": "1792754901461792fda10aa3aa8",
+      "date": "2026-10-23",
+      "productId": "e919e28d-7cc6-4fe2-b43c-d366228f6e93",
+      "productName": "БК618-240СМ",
+      "quantity": 30,
+      "unitPoints": 0.7,
+      "total": 21,
+      "note": "2323"
+    }
+  ]
+}
